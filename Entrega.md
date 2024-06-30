@@ -17,9 +17,9 @@ Portanto, um aprimoramento nas duas formas de procura de leads significaria um c
 #### **Prospecção passiva**
 O envolvimento do marketing é imprescindível para a efetivação de qualquer venda: desde a etapa simbólica, criando uma estética única para a empresa, até a produção de conteúdo que chama o cliente até nós, de forma passiva. Sob essa ótica, cabe a implementação de alguns fatores para que tal ramo de trabalho se alinhe de melhor forma com a produção de laudos de eficiência energética. Tais propostas estão listadas e brevemente explicadas abaixo:
 * **Utilização da videografia**: recursos visuais podem ser mais explorados pela enetec, pois são um ótimo chamativo para clientes: ver na prática a empresa atuando passa para o cliente uma imagem de produtividade e qualidade. Inserir reels que mostram o processo no instagram da enetec seria um bom passo para atiçar visualmente potenciais clientes.
-* **Instagram ads**: atualmente, o Instagram se tornou um dos maiores marketplaces do mundo. A plataforma permite utilizar o potencial de vendas ao se pagar por patrocínio do produto. O alcance pode ser interessante e produtivo. No entanto, é necessário primeiro investir no nosso instagram e potencializar o número de seguidores. 
+* **Instagram Ads**: atualmente, o Instagram se tornou um dos maiores marketplaces do mundo. A plataforma permite utilizar o potencial de vendas ao se pagar por patrocínio do produto. O alcance pode ser interessante e produtivo. No entanto, é necessário primeiro investir no nosso instagram e potencializar o número de seguidores. 
 * **Categorização de leads para rodar campanhas no google ads mais eficientes**: o Google Ads é uma plataforma muito utilizada pela Enetec e, para que tal ferramenta propicie a melhora do rendimento da carta de eficiência energética, é necessário promover uma análise de leads e qualificação dos grupos esperados. Desse modo, uma maior otimização do Google Ads pode ser realizada e poderemos rodar campanhas acerca do assunto.
-* **Materiais de apoio para a Prospecção Circular**
+* **Materiais de apoio para a Prospecção retroativa**:
 Utilizar materiais de marketing voltados à prospecção circular como carta de apresentação, e-mails e mensagens personalizadas para aplicativos de mensagens como Whatsapp e Instagram. As formas de prospecção circular serão relatadas na parte de prospecção ativa deste relatório. 
 
 Para sintetizar isso, houve a construção de uma tabela que reúne os tópicos a serem trabalhados, o que eles custam, e como efetivá-los dentro da empresa.
@@ -35,15 +35,15 @@ Materiais de apoio para a prospecção retroativa | Automatização de mensagens
 A prospecção ativa desempenha um papel crucial na concretização de qualquer venda: desde a identificação e segmentação de potenciais clientes, até o contrato direto e personalizado que desperta o interesse e a necessidade de um produto ou serviço. Sob essa perspectiva, é essencial implementar alguns fatores para que essa abordagem se alinhe de maneira eficaz com a produção de laudos de eficiência energética.
 Para otimizar nossos esforços de prospecção ativa e garantir que estamos direcionando nossos recursos para leads com maior probabilidade de conversão, propomos um processo de filtragem de leads potenciais. Este processo nos permite identificar e priorizar aqueles leads que possuem um perfil mais alinhado com os serviços oferecidos pela nossa empresa júnior de consultoria elétrica. Abaixo estão os principais critérios e métodos que utilizamos para filtrar leads em potencial:
 
-* **1. Prospecção retroativa**
+* **Prospecção retroativa**:
     * Garantir a satisfação e fidelização dos clientes, oferecendo suporte contínuo e resolvendo possíveis problemas rapidamente. Manter a comunicação proativa é essencial para aprimorar a experiência do cliente e fortalecer a relação com a empresa.
     * Consiste em fomentar o processo pós venda, garantindo a satisfação dos clientes, especialmente por mensagens automatizadas tanto no WhatsApp quanto no e-mail.
 
-* **2. Reputação e Histórico de Parcerias**
+* **Reputação e Histórico de Parcerias**:
     * Pesquisar a reputação e o histórico de parcerias dos leads em potencial para identificar empresas que valorizam e mantêm boas relações com fornecedores de serviços.
     * Priorizar leads que têm um histórico positivo de colaboração e que demonstram confiança em consultorias especializadas.
 
-* **Ferramentas e Tecnologias Utilizadas**
+* **Ferramentas e Tecnologias Utilizadas**:
     * Utilizar o Google Sheets para consolidar e analisar dados dos leads, facilitando a segmentação e a priorização conforme estratégias de CRM (Customer Relationship Management)
     *Implementar algortimos de pontuação de leads que consideram múltiplos critérios e ajudam a identificar aqueles com maior probabilidade de conversão.
 
@@ -62,3 +62,4 @@ https://www.wordstream.com/adwords-optimization
 https://www.agendor.com.br/blog/tipos-de-prospeccao/#:~:text=Os%20tipos%20de%20prospec%C3%A7%C3%A3o%20ativa%20se%20dividem%20entre%20online%20e,%2Dmails%20(cold%20mailing).
 https://blog.econodata.com.br/prospeccao-ativa/
 https://blog.hubspot.com/sales
+
