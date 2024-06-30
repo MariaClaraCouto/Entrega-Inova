@@ -2,8 +2,7 @@
   <img src="https://enetec.unb.br/wp-content/uploads/2019/11/ENETEC.png" alt="Enetec Consultoria">
 </div>
 
-# Melhorando a prospecção
-## para a carta de Eficiência Energética
+# Melhorando a prospecção para a carta de Eficiência Energética
 ***
 ## Descrição da pesquisa
 Uma das principais cartas da Enetec tem sido relacionada ao ramo da eficiência energética. Mesmo assim, é notório pontuar que esse ramo precisa de melhoria quanto a qualificação e obtenção de leads produtivos. 
